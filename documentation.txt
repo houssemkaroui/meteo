@@ -1,0 +1,13 @@
+Bonjour:
+
+lancement de l'application côté serveur:
+1 configuration de base de données
+  dans le répertoire  weather\app\config vous trouver un fichier config.js
+  maitre le password de votre base de données et le nom de votre base de donnes
+2 faire npm i pour installer tout les dépendance
+
+3 run de l'application avec node server.js ou nodemon server.js 
+
+lancement de l'application côté client:
+1 faire npm i  pour install les dependance 
+2 run de lapplication avec npm start dans le dossier client 
