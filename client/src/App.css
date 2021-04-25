@@ -9,3 +9,9 @@
 .sizeText{
   font-size: x-large;
 }
+
+.map{
+  max-width: -webkit-fill-available;
+  height: 150px
+}
+
